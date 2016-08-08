@@ -1,0 +1,3 @@
+--2016-8-8 edit by elyn chen
+This is the first time to use GIT software.
+Looks like good.
